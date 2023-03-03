@@ -1,14 +1,16 @@
 # SwiftQuickReferenceGuide
 
-Swift Quick Reference Guide. (Computer Programming Language Cheat Sheet.)
+The Swift Quick Reference Guide. 
+
+( Computer Programming Language Cheat Sheet for Swift.)
 
 README.txt
 
 LICENSE.txt
 
-Swift Quick Reference Guide
+The Swift Quick Reference Guide
 
-Computer Programming Language Cheat Sheet
+Computer Programming Language Cheat Sheet for Swift.
 
 Created by USEnterprises2001@gmail.com
 
@@ -22,9 +24,9 @@ Adapt — remix, transform, and build upon the material for any purpose, even co
 
 Under the following terms:
 
-Attribution — You must give appropriate credit to USEnterprises2001@gmail.com, 
+Attribution — You must give appropriate credit to USEnterprises2001@gmail.com
 
-provide a link to the license at
+Provide a link to the license at
 
 https://github.com/USEnterprises2001/SwiftQuickReferenceGuide
 
