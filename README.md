@@ -2,7 +2,7 @@
 
 The Swift Quick Reference Guide. 
 
-( Computer Programming Language Cheat Sheet for Swift.)
+( Computer Programming Language Cheat Sheet for Swift. )
 
 README.txt
 
